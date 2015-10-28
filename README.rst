@@ -1,6 +1,7 @@
 FCSocial
 ========
 
+.. contents:: :local:
 
 Instalación
 -----------
