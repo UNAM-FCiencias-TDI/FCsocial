@@ -5,7 +5,7 @@ FCSocial
 Instalación
 -----------
 
-. code:: bash
+.. code:: bash
 
     $ virtualenv-3.4 fcsocial_dev
     $ source bin/activate
