@@ -26,3 +26,5 @@ var/
 
 # Sphinx documentation
 docs/_build/
+
+*.sqlite3
