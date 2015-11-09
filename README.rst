@@ -3,6 +3,9 @@ FCSocial
 
 .. contents:: :local:
 
+.. image:: https://travis-ci.org/UNAM-FCiencias-TDI/FCsocial.svg
+    :target: https://travis-ci.org/UNAM-FCiencias-TDI/FCsocial
+
 Instalación
 -----------
 
