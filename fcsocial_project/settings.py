@@ -42,7 +42,6 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # 'fcsocial_project',
     'social.apps.django_app.default',
 )
 
