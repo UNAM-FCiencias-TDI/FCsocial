@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{% block title %}FC_Social{% endblock %}
+
+{% block content %}
+<h1>FC_Social</h1>
+<form>
+    <div>
+    	<label for="Nombre">Ingresa tu nombre(s): </label>
+		<br>
+		<input type = "text" name="nombre" id="nombre">
+	</div>
+	<div>
+	    <label for="appP">Apellido Paterno: </label>
+	    <br>
+	    <input type ="text" name="apellidoP" id="apellidoP">
+	</div>
+	<div>
+		<label for="appM">Apellido Materno:</label> 
+		<br>
+		<input type = "text" name="apellidoM" id="apellidoM">
+	</div>
+	<div>
+	    <label for="correo">Correo:</label>
+	    <br>
+	    <input type ="email" name="correo" id="correo">
+	</div>
+	<div> 
+		<label for="edad">Edad:</label>
+		<br>
+		<input type= "number" name="edad" id="edad">
+	</div>
+	<div>
+	    <label for="carrera">Carrera:</label>
+	    <br>
+	    <input type ="text" name="carrera" id="carrera">
+	</div>
+	
+	<div>
+		<br><br>
+		<button type = "reset" name="Cancelar" id="cancelar">Cancelar</button>
+		<button type = "submit" value="Submit">Registrarse</button>
+	</div>
+</form>
+{% endblock %}
