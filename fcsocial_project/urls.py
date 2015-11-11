@@ -13,15 +13,16 @@ Including another URLconf
     1. Add an import:  from blog import urls as blog_urls
     2. Add a URL to urlpatterns:  url(r'^blog/', include(blog_urls))
 """
-from django.conf.urls import include, url
+from django.conf.urls import include
+from django.conf.urls import url
 from django.contrib import admin
-from fcsocial_app import views
+# from fcsocial_app import views
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
-    url('', include('social.apps.django_app.urls', namespace='social'))
-    url(r'^$', 'django_social_app.views.login'),
-    url(r'^home/$', 'django_social_app.views.home'),
-    url(r'^logout/$', 'django_social_app.views.logout'),
+    url('', include('social.apps.django_app.urls', namespace='social')),
+    url(r'^$', 'fcsocial_project.views.login'),
+    url(r'^home/$', 'fcsocial_project.views.home'),
+    url(r'^logout/$', 'fcsocial_project.views.logout'),
     # url(r'^$', views.FC_Social_template),
     ]
