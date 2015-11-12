@@ -20,4 +20,5 @@ from fcsocial_app import views
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', views.FC_Social_template),
+    url(r'^registro.html', views.reg ),
     ]
