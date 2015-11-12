@@ -5,3 +5,6 @@ from django.shortcuts import render
 def FC_Social_template(request):
     return render(request, 'home.html')
 
+def reg(request):
+    return render(request, 'registro.html')
+
