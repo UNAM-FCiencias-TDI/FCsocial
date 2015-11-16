@@ -3,13 +3,19 @@
 {% block title %}FCsocial{% endblock %}
 
 {% block content %}
-<h1>FC_Social</h1>
-	<div>
-		<br>
-		<br>
-		<button onclick= "location.href='registro.html';" type = "button" name="Registrar" id="registrar">Registrarse</button>
-		<button type = "button" name="Entrar" id= "entra"r>Iniciar sesión</button>
-	</div>
+<div class="jumbotron">
+   <h1 class="text-center">FCsocial</strong></h1>
+</div>
+  <div class="container">
+
+    <!--<p class="text-center">Bienvenido</p>-->
+    <button class="btn btn-lg btn-primary btn-block" onclick= "location.href='registro.html';" type = "button" name="Registrar" id="registrar">Registrarse</button>
+    <button class="btn btn-lg btn-primary btn-block" type = "button" name="Entrar" id= "entra"r>Iniciar sesión</button>
+  </div>
+      <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <br><br>
+    <img src="http://www.mollusca2014.unam.mx/imagenes/sede/facultad.jpg" class="img-responsive center-block" alt="facultad">
 {% endblock %}
 
 
