@@ -23,6 +23,7 @@ urlpatterns = [
     url('', include('social.apps.django_app.urls', namespace='social')),
     url(r'^$', 'fcsocial_project.views.login'),
     url(r'^home/$', 'fcsocial_project.views.home'),
+    url('', include('django.contrib.auth.urls', namespace='auth')),
     url(r'^logout/$', 'fcsocial_project.views.logout'),
     # url(r'^$', views.FC_Social_template),
     ]
