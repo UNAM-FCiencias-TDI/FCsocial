@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"me",
+				"meteorito"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"Me",
+				"Meteorito1"
+			],
+			[
+				"Met",
+				"Meteorito"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"mete",
+				"Meteorito"
+			],
+			[
+				"M",
+				"Meteorito"
+			],
+			[
+				"get",
+				"getWidth"
+			],
+			[
+				"ME",
+				"meteorito"
+			],
+			[
+				"meteori",
+				"meteoritos"
+			],
+			[
+				"table",
+				"table.concat	table.concat"
+			],
+			[
+				"bu",
+				"bullet"
+			],
+			[
+				"bul",
+				"bullet"
+			],
+			[
+				"mo",
+				"mouseY"
+			],
+			[
+				"sta",
+				"startY"
+			],
+			[
+				"a",
+				"args2"
+			],
+			[
+				"arg",
+				"args2"
+			],
+			[
+				"ag",
+				"args2"
+			],
+			[
+				"ima",
+				"image2"
+			],
+			[
+				"regExp",
+				"regExpCurp"
+			],
+			[
+				"bl",
+				"blend"
+			],
+			[
+				"pix",
+				"pixels2"
+			],
+			[
+				"pi",
+				"pixels1"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ma",
+				"marcianos"
+			],
+			[
+				"in",
+				"indice"
+			],
+			[
+				"bulletmarcia",
+				"bulletmarciano"
+			],
+			[
+				"star",
+				"startmarcianoY"
+			],
+			[
+				"bulletD",
+				"bulletDx"
+			],
+			[
+				"startma",
+				"startmarcianoX"
+			],
+			[
+				"posi",
+				"posicionastronautaX"
+			],
+			[
+				"col",
+				"colisionado"
+			],
+			[
+				"pl",
+				"plataformasAzules"
+			],
+			[
+				"mar",
+				"marciano8"
+			],
+			[
+				"win",
+				"winH"
+			],
+			[
+				"w",
+				"winH"
+			],
+			[
+				"bull",
+				"bullet"
+			],
+			[
+				"marcia",
+				"marciano"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"new",
+				"newWorld"
+			],
+			[
+				"bullet",
+				"bullet"
+			],
+			[
+				"set",
+				"setImagen"
+			],
+			[
+				"Ma",
+				"Marciano"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"co",
+				"isCollide"
+			],
+			[
+				"is",
+				"isCollide"
+			],
+			[
+				"lo",
+				"love"
+			],
+			[
+				"ini",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"im",
+				"imgs"
+			],
+			[
+				"re",
+				"resp"
+			],
+			[
+				"obti",
+				"obtieneimgs"
+			],
+			[
+				"url",
+				"urlimagen"
+			],
+			[
+				"urlim",
+				"urlimg"
+			],
+			[
+				"con",
+				"contadorlinks"
+			],
+			[
+				"L",
+				"Limg"
+			],
+			[
+				"s",
+				"scalar"
+			],
+			[
+				"pas",
+				"pascal_row"
+			],
+			[
+				"p",
+				"pascal_elem"
+			],
+			[
+				"m",
+				"muestaTriangulo"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"de",
+				"def	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 1172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/views.py",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "login.html",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 3363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/config.py",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yosh/fcsocial_dev/FCsocial/manage.py",
+			"settings":
+			{
+				"buffer_size": 259,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 264.0,
+		"last_filter": "men",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yosh/fcsocial_dev/FCsocial/templates/layout.html",
+		"/home/yosh/fcsocial_dev/FCsocial/templates/home.html",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_app/views.py",
+		"/home/yosh/Documents/fciencias2016-1/DPV/tessellate/Tessellate.html",
+		"/home/yosh/Documents/fciencias2016-1/DPV/tessellate/tessellate.min.js",
+		"/home/yosh/Documents/fciencias2016-1/DPV/issue-003/jumpup.html",
+		"/home/yosh/Documents/fciencias2016-1/DPV/tetris.js",
+		"/home/yosh/Documents/fciencias2016-1/DPV/phaser2/part9.html",
+		"/home/yosh/Documents/fciencias2016-1/Bases de Datos/Pinaconet/Database/pinaconet.sql",
+		"/home/yosh/Documents/fciencias2016-1/DPV/issue-003/platforms.html",
+		"/home/yosh/Documents/fciencias2016-1/DPV/phaser2/js/phaser.min.js",
+		"/home/yosh/Documents/fciencias2016-1/DPV/Tessellate.html",
+		"/home/yosh/Documents/fciencias2016-1/DPV/tessellate.js",
+		"/home/yosh/Documents/fciencias2016-1/DPV/main.css",
+		"/home/yosh/Documents/fciencias2016-1/DPV/Juego Nave/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/NellingLoveTetris/src/main.lua",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_app/tests.py",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_app/models.py",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/wsgi.py",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/urls.py",
+		"/home/yosh/.cache/.fr-XLEHkM/tetris-lua-master/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/NellingLoveTetris/src/conf.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/Prototipo1/main.lua",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/__init__.py",
+		"/home/yosh/java_error_in_STUDIO_5406.log",
+		"/home/yosh/fcsocial_dev/FCsocial/fcsocial_app/__init__.py",
+		"/home/yosh/Desktop/mongoosetest.js",
+		"/home/yosh/FCsocial_project/READ ME",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/intro2.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/intro1.lua",
+		"/home/yosh/.bash_profile",
+		"/home/yosh/Documents/fciencias2016-1/PDI/Procesador Imagenes Javascript/imageprocessing.html",
+		"/home/yosh/cordova/myApp/.profile",
+		"/home/yosh/Documents/fciencias2016-1/TDI/main.css",
+		"/home/yosh/phonegap/myApp/config.xml",
+		"/home/yosh/Documents/fciencias2016-1/TDI/forma.html",
+		"/home/yosh/cordova/myApp/platforms/android/build/outputs/apk/android-debug.apk",
+		"/home/yosh/Desktop/imageprocessing.js",
+		"/home/yosh/Desktop/imageprocessing.html",
+		"/home/yosh/Downloads/Tienda.sql",
+		"/home/yosh/Downloads/Inserciones.sql",
+		"/home/yosh/Downloads/Consultas.sql",
+		"/home/yosh/Downloads/Actualizaciones.sql",
+		"/home/yosh/Downloads/Eliminaciones.sql",
+		"/home/yosh/Downloads/ayudantia/ayudantia/demo.html",
+		"/home/yosh/Downloads/ayudantia/ayudantia/multimedia.html",
+		"/home/yosh/pycon2020_project/pycon2020_site/pycon2020_site/urls.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/models.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/pycon2020_site/settings.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/urls.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/templates/talks/talk_list.html",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/admin.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/views.py",
+		"/media/yosh/DAVID/Juego Nave/main.lua",
+		"/home/yosh/pycon2020_project/pycon2020_site/pycon2020_site/__init__.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/pycon2020_site/views.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/manage.py",
+		"/home/yosh/pycon2020_project/pycon2020_site/talks/Talks",
+		"/home/yosh/pycon2020_project/pycon2020_site/pycon2020_site/pycon2020.sublime-project",
+		"/home/yosh/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/yosh/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/yosh/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVE_Physics/PhysicsExample/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/Prototipo/main.lua",
+		"/home/yosh/.cache/.fr-igvEPP/ayudantia/deamon.py",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVE_Physics/PhysicsCollisionCallback/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/prototiponivel2/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/11Pong/main.lua",
+		"/home/yosh/descripcion del prototipo",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/ejemplo/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/11Pong/Mover.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/10Animation/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/10Animation/AnAL.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/0.9.0 examples.love",
+		"/home/yosh/Documents/fciencias2016-1/PDI/interacting-with-the-display.py",
+		"/home/yosh/Documents/fciencias2016-1/TDI/practica3/ejemplobs4.py",
+		"/home/yosh/Documents/fciencias2016-1/TDI/practica3/prueba.py",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/04ImagePosition/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/12Animation2/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/08Mouse/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/06ImageMoving/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/05ImageEffect/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/LOVETutorials/07Keyboard/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/LOVETutorials/01HelloWorld/main.lua",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/LOVETutorials/02Background/main.lua",
+		"/home/yosh/Downloads/interacting-with-the-display.py",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/testLVector.lua",
+		"/home/yosh/Documents/fciencias2016-1/TDI/prueba.py",
+		"/home/yosh/Downloads/prueba.py",
+		"/home/yosh/Documents/fciencias2016-1/DPV/IntroduccionLua/LVector.lua",
+		"/home/yosh/Desktop/pascal.py",
+		"/home/yosh/Desktop/PascalTestCase.py",
+		"/home/yosh/Documents/fciencias2016-1/modelado/reto/werty.c",
+		"/home/yosh/Envs/myenv/Requests.py",
+		"/home/yosh/proyecto/lib/python2.7/site-packages/requests/adapters.py",
+		"/home/yosh/Desktop/Main.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SOCIAL_AUTH_TWITTER_SECRET",
+			"canvas",
+			"boardX",
+			"draw",
+			"height",
+			"width",
+			"screenX",
+			"ubicaciones",
+			"Meteorito",
+			"nombre",
+			" \n",
+			"angle",
+			"dx",
+			"rectangulo4",
+			"rectangulo3",
+			"rectangulo2",
+			"rectangulo1",
+			"rectangulo",
+			"asteroide",
+			"filterImage",
+			"blend",
+			"arguments",
+			"brig",
+			"brigth",
+			"load",
+			"document",
+			"juegoCorriendo",
+			"\n	",
+			")\n",
+			"bulletSpeed",
+			"bulletSpeedMarciano",
+			"numcolisiones",
+			"remove bullets when they pass off the screen",
+			"end",
+			"mousepressed",
+			"colisionado",
+			"marciano2",
+			"}\n",
+			"y_velocidad",
+			"velocity",
+			"jump_height",
+			"player",
+			"bulletSpeed",
+			"marciano",
+			"marcianos",
+			"get",
+			"dt",
+			"dx",
+			")\n",
+			"10",
+			"lobo",
+			"urlimagen",
+			"resp",
+			"ratio",
+			"cell",
+			"line",
+			"tree",
+			"pretty",
+			"lastRow",
+			"result",
+			"n",
+			"pascal",
+			"columna"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ubicacionmeteoritos",
+			"meteoritos",
+			" \n",
+			"rectanguloDerecho",
+			"rectanguloIzquierdo",
+			"rectanguloArriba",
+			"rectanguloAbajo",
+			"rectangulo1",
+			"rectangulo",
+			"astronauta",
+			"listaurls",
+			"normaliza",
+			"celda",
+			"linea",
+			"triangulo",
+			"muestaTriangulo",
+			"ultimaFila",
+			"resultado",
+			"size",
+			"pascal_triangle",
+			"renglon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/yosh/fcsocial_dev/FCsocial/fcsocial_project/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/yosh/fcsocial_dev/FCsocial/manage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
