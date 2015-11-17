@@ -12,8 +12,8 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 
 from .config import SOCIAL_AUTH_LOGIN_REDIRECT_URL
 from .config import SOCIAL_AUTH_LOGIN_URL
-from .config import SOCIAL_AUTH_TWITTER_KEY
-from .config import SOCIAL_AUTH_TWITTER_SECRET
+#from .config import SOCIAL_AUTH_TWITTER_KEY
+#from .config import SOCIAL_AUTH_TWITTER_SECRET
 from .config import SOCIAL_AUTH_GOOGLE_OAUTH2_KEY
 from .config import SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET
 
@@ -115,6 +115,6 @@ STATIC_URL = '/static/'
 AUTHENTICATION_BACKENDS = (
 #    'social.backends.google.GoogleOpenId',
    'social.backends.google.GoogleOAuth2',
-    'social.backends.twitter.TwitterOAuth',
+#    'social.backends.twitter.TwitterOAuth',
     'django.contrib.auth.backends.ModelBackend',
 )
