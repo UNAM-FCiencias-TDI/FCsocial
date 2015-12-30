@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 12px;
+}
+
+.headerMenu{
+    background-color: #00B9ED;
+    height: 40px;
+    border-bottom: 0px;
+    padding-left: auto;
+    padding-right: auto;
+    width: 100%;
+}
+
+.logo{
+    width: 125px;
+    color: white;
+    font-style: Arial;
+    font-size: 200%;
+}
+
+.search_box{
+    position: absolute;
+    top:9px;
+    margin-left: 135px;
+}
+
+#menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    background: #00B9ED;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-bottom: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center; 
+}
+
+#menu{
+    background: #00B9ED;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 37px;
+    padding-top: 2px;
+    margin-right:6%;
+}
+
+.postForm{
+    margin: 30px;
+    float: right;
+    width: 580px;
+    height: 80px;
+    background-color: #F3F6F9;
+    padding: 5px;
+}
+
+.profilePosts{
+    margin: 30px;
+    margin-bottom: 50px;
+    float: right;
+    width: 580px;
+    height: 414px;
+    background-color: #DCE6EE;
+    padding: 5px;
+}
+
+.img {
+    margin-left:80px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    float: top;
+    width: 180px;
+}
+
+
+
+
+
+
+
