@@ -8,3 +8,9 @@ def FC_Social_template(request):
 def reg(request):
     return render(request, 'registro.html')
 
+def ini(request):
+	return render(request,'inicio.html')
+
+def perfil(request):
+	return render(request,'Profile.html')
+

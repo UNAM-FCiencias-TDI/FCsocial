@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block title %}FC_Social{% endblock %}
+
+{% block content %}
+<body>
+   <div class= "headerMenu">
+      <div class= "logo">
+         FCSocial
+      </div>
+      <div class= "search_box">
+         <!--action= "search"-->
+         <form method="GET" id= "search" >
+            <input type="text" name= "searchP" size ="60" placeholder=" Encuentra a tus amigos..."/> 
+         </form>
+      </div>
+      <div id= "menu">
+         <a href="#">Perfil</a>
+         <a href="#">Inicio</a>
+         <a href="#">Cerrar sesion</a>
+      </div>
+   </div>
+      <div class= "postForm">
+        <form action= "#" method="POST">
+          <textarea id= "post" name= "post" rows="5" cols= "70"></textarea>
+          <input type= "submit" name= "send" value="Publicar" style="background-color: #DCE5EE; float: right; border: 1px solid #666; color:#666; height:73px; width:65px;">
+        </form>
+      </div>
+      <div class = "profilePosts">Tus publicaciones estaran aqui</div>
+      <div class="img">
+        <img src="" height= "250" width="200" alt="profilePicture" />   
+      </div>
+</body>
+{% endblock %}

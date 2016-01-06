@@ -21,4 +21,7 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', views.FC_Social_template),
     url(r'^registro.html', views.reg ),
+    url(r'^inicio.html',views.ini),
+    url(r'^Profile.html', views.perfil),
+    url(r'^home.html',views.FC_Social_template),
     ]
